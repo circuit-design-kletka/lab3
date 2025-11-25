@@ -1,0 +1,169 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LED[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LED[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_DATA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_DATA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_DATA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_DATA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_DATA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_DATA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_DATA[7]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_SEL[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_SEL[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_SEL[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_SEL[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_SEL[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_SEL[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_SEL[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SEG_SEL[7]",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "RST_N",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[8]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[9]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[10]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[11]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[12]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[4]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[13]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[5]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[14]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[6]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[15]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[7]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[0]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[1]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[2]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO_0_input_pullup[3]",
+					"strict" : false
+				},
+				{
+					"name" : "KEY2_N",
+					"strict" : false
+				},
+				{
+					"name" : "KEY3_N",
+					"strict" : false
+				},
+				{
+					"name" : "KEY4_N",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

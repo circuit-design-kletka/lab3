@@ -1,0 +1,13 @@
+
+State Machine - |fec_saylinx_board_top|disp_mode_q
+Name disp_mode_q.DISP_RESULT disp_mode_q.DISP_B disp_mode_q.DISP_A 
+disp_mode_q.DISP_RESULT 0 0 0 
+disp_mode_q.DISP_A 1 0 1 
+disp_mode_q.DISP_B 1 1 0 
+
+State Machine - |fec_saylinx_board_top|sqrt_mult_system:calc_unit|state
+Name state.DONE_STATE state.CALC_MULT state.CALC_SQRT state.IDLE 
+state.IDLE 0 0 0 0 
+state.CALC_SQRT 0 0 1 1 
+state.CALC_MULT 0 1 0 1 
+state.DONE_STATE 1 0 0 1 

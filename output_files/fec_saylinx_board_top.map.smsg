@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at fec_saylinx_board_top.v(3): object "CLK" differs only in case from object "clk" in the same scope File: /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/fec_saylinx_board_top.v Line: 3
+Warning (10268): Verilog HDL information at sqrt.v(23): always construct contains both blocking and non-blocking assignments File: /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/sqrt.v Line: 23
