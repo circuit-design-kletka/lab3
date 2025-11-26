@@ -10,89 +10,89 @@
 # 
 # vlog -vlog01compat -work work +incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3 {/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/fec_saylinx_board_top.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 21:14:09 on Nov 25,2025
+# Start time: 11:43:20 on Nov 26,2025
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3" /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/fec_saylinx_board_top.v 
 # -- Compiling module fec_saylinx_board_top
 # 
 # Top level modules:
 # 	fec_saylinx_board_top
-# End time: 21:14:09 on Nov 25,2025, Elapsed time: 0:00:00
+# End time: 11:43:20 on Nov 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3 {/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/debounce_button.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 21:14:09 on Nov 25,2025
+# Start time: 11:43:20 on Nov 26,2025
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3" /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/debounce_button.v 
 # -- Compiling module debounce_button
 # 
 # Top level modules:
 # 	debounce_button
-# End time: 21:14:09 on Nov 25,2025, Elapsed time: 0:00:00
+# End time: 11:43:20 on Nov 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3 {/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/sqrt_mult_system.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 21:14:09 on Nov 25,2025
+# Start time: 11:43:20 on Nov 26,2025
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3" /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/sqrt_mult_system.v 
 # -- Compiling module sqrt_mult_system
 # 
 # Top level modules:
 # 	sqrt_mult_system
-# End time: 21:14:10 on Nov 25,2025, Elapsed time: 0:00:01
+# End time: 11:43:20 on Nov 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3 {/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/sqrt.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 21:14:10 on Nov 25,2025
+# Start time: 11:43:20 on Nov 26,2025
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3" /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/sqrt.v 
 # -- Compiling module sqrt
 # 
 # Top level modules:
 # 	sqrt
-# End time: 21:14:10 on Nov 25,2025, Elapsed time: 0:00:00
+# End time: 11:43:20 on Nov 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3 {/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/mult.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 21:14:10 on Nov 25,2025
+# Start time: 11:43:21 on Nov 26,2025
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3" /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/mult.v 
 # -- Compiling module mult
 # 
 # Top level modules:
 # 	mult
-# End time: 21:14:10 on Nov 25,2025, Elapsed time: 0:00:00
+# End time: 11:43:21 on Nov 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3 {/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/seg_display_ctrl.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 21:14:10 on Nov 25,2025
+# Start time: 11:43:21 on Nov 26,2025
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3" /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/seg_display_ctrl.v 
 # -- Compiling module seg_display_ctrl
 # 
 # Top level modules:
 # 	seg_display_ctrl
-# End time: 21:14:10 on Nov 25,2025, Elapsed time: 0:00:00
+# End time: 11:43:21 on Nov 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3 {/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/hex_to_7seg.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 21:14:10 on Nov 25,2025
+# Start time: 11:43:21 on Nov 26,2025
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3" /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/hex_to_7seg.v 
 # -- Compiling module hex_to_7seg
 # 
 # Top level modules:
 # 	hex_to_7seg
-# End time: 21:14:10 on Nov 25,2025, Elapsed time: 0:00:00
+# End time: 11:43:21 on Nov 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlog -sv -work work +incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3 {/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/fec_saylinx_board_top_tb.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 21:14:10 on Nov 25,2025
+# Start time: 11:43:21 on Nov 26,2025
 # vlog -reportprogress 300 -sv -work work "+incdir+/media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3" /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/fec_saylinx_board_top_tb.v 
 # -- Compiling module fec_saylinx_board_top_tb
 # 
 # Top level modules:
 # 	fec_saylinx_board_top_tb
-# End time: 21:14:10 on Nov 25,2025, Elapsed time: 0:00:00
+# End time: 11:43:21 on Nov 26,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  fec_saylinx_board_top_tb
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" fec_saylinx_board_top_tb 
-# Start time: 21:14:10 on Nov 25,2025
+# Start time: 11:43:21 on Nov 26,2025
 # Loading sv_std.std
 # Loading work.fec_saylinx_board_top_tb
 # Loading work.fec_saylinx_board_top
@@ -113,76 +113,6 @@
 # view signals
 # .main_pane.objects.interior.cs.body.tree
 # run -all
-# 
-# ====================================================
-#   TESTBENCH FOR fec_saylinx_board_top
-#   Testing: y = a * cuberoot(b)
-#   Clock: 50 MHz (period 20 ns)
-# ====================================================
-# 
-# Time(us)	LED	state	a_val	b_val	result
-# ========	===	=====	=====	=====	======
-# [190000 ns] Reset released
-# 
-# ========================================
-# TEST: 5 * cuberoot(9) = 15 (expected)
-# ========================================
-# [40190000 ns] KEY2 pressed (show A)
-# [CHECK] After KEY2: a_value = 5, display_mode = 1
-# [24040190000 ns] KEY4 pressed (show B)
-# [CHECK] After KEY4: b_value = 9, display_mode = 2
-# [48040190000 ns] KEY3 pressed (start calculation)
-add wave -position end  sim:/fec_saylinx_board_top_tb/dut/a8
-# [WAIT] Waiting for calculation to complete...
-add wave -position end  sim:/fec_saylinx_board_top_tb/dut/b32
-add wave -position end  sim:/fec_saylinx_board_top_tb/dut/calc_result
-# [RESULT] calc_result = 15 (0x000f)
-# [RESULT] last_result = 15 (0x000f)
-# [RESULT] display_value = 0x000f0905
-# [PASS] Test PASSED: Result = 15
-# 
-# ========================================
-# TEST: 10 * cuberoot(4) = 20 (expected)
-# ========================================
-# [282060190000 ns] KEY2 pressed (show A)
-# [CHECK] After KEY2: a_value = 10, display_mode = 1
-# [306060190000 ns] KEY4 pressed (show B)
-# [CHECK] After KEY4: b_value = 4, display_mode = 2
-# [330060190000 ns] KEY3 pressed (start calculation)
-# [WAIT] Waiting for calculation to complete...
-# [RESULT] calc_result = 20 (0x0014)
-# [RESULT] last_result = 20 (0x0014)
-# [RESULT] display_value = 0x0014040a
-# [PASS] Test PASSED: Result = 20
-# 
-# ========================================
-# TEST: 7 * cuberoot(16) = 28 (expected)
-# ========================================
-# [564080190000 ns] KEY2 pressed (show A)
-# [CHECK] After KEY2: a_value = 7, display_mode = 1
-# [588080190000 ns] KEY4 pressed (show B)
-# [CHECK] After KEY4: b_value = 16, display_mode = 2
-# [612080190000 ns] KEY3 pressed (start calculation)
-# [WAIT] Waiting for calculation to complete...
-# [RESULT] calc_result = 28 (0x001c)
-# [RESULT] last_result = 28 (0x001c)
-# [RESULT] display_value = 0x001c1007
-# [PASS] Test PASSED: Result = 28
-# 
-# ====================================================
-#   SIMULATION COMPLETED
-# ====================================================
-# 
-# ** Note: $stop    : /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/fec_saylinx_board_top_tb.v(178)
-#    Time: 856080190 ns  Iteration: 1  Instance: /fec_saylinx_board_top_tb
-# Break in Module fec_saylinx_board_top_tb at /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/fec_saylinx_board_top_tb.v line 178
-restart -f
-# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
-# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (32) for port 'a_bi'. The port definition is at: /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/sqrt_mult_system.v(5).
-#    Time: 0 ps  Iteration: 0  Instance: /fec_saylinx_board_top_tb/dut/calc_unit File: /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/fec_saylinx_board_top.v Line: 80
-# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (32) for port 'b_bi'. The port definition is at: /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/sqrt_mult_system.v(6).
-#    Time: 0 ps  Iteration: 0  Instance: /fec_saylinx_board_top_tb/dut/calc_unit File: /media/ra/_work/ra/ITMO/COURSE_3/FUCSCHEM/lab3/fec_saylinx_board_top.v Line: 80
-run -continue
 # 
 # ====================================================
 #   TESTBENCH FOR fec_saylinx_board_top
